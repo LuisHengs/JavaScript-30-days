@@ -2,7 +2,7 @@
   <img src="./javascript30dias.png" alt="JavaScript 30 Days" width="700"/>
 </p>
 
-<h1 align="center">🚀 #JavaScript30 – 30 Dias de Projetos com Vanilla JS</h1>
+<h1 align="center">🚀 JavaScript30 – 30 Dias de Projetos com Vanilla JS</h1>
 
 <p align="center">
   <em>Construa <strong>30 projetos</strong> em <strong>30 dias</strong> com <strong>JavaScript puro</strong> — sem frameworks, sem atalhos, apenas código!</em>
@@ -12,7 +12,7 @@
 
 ## 🧩 Sobre o Desafio
 
-O **#JavaScript30** é um desafio prático criado por [Wes Bos](https://javascript30.com/) para quem deseja se aprofundar em **JavaScript puro (Vanilla JS)**.  
+O **JavaScript30** é um desafio prático criado por [Wes Bos](https://javascript30.com/) para quem deseja se aprofundar em **JavaScript puro (Vanilla JS)**.  
 Durante **30 dias**, o objetivo é desenvolver **30 mini projetos**, cada um ensinando um novo conceito e prática da linguagem.
 
 A ideia é aprender **fazendo**, escrevendo código todos os dias e criando aplicações simples, interativas e funcionais.
